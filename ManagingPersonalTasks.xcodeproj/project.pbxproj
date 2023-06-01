@@ -14,6 +14,7 @@
 		B7EF03952A290AD9001E71FB /* ListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF03942A290AD9001E71FB /* ListRowView.swift */; };
 		B7EF03972A290E59001E71FB /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF03962A290E59001E71FB /* AddView.swift */; };
 		B7EF039C2A2912DA001E71FB /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF039B2A2912D9001E71FB /* ItemModel.swift */; };
+		B7EF03A02A291CC9001E71FB /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF039F2A291CC9001E71FB /* ListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		B7EF03942A290AD9001E71FB /* ListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowView.swift; sourceTree = "<group>"; };
 		B7EF03962A290E59001E71FB /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		B7EF039B2A2912D9001E71FB /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
+		B7EF039F2A291CC9001E71FB /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		B7EF039E2A291C32001E71FB /* MVVM */ = {
 			isa = PBXGroup;
 			children = (
+				B7EF039F2A291CC9001E71FB /* ListViewModel.swift */,
 			);
 			path = MVVM;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 			files = (
 				B7EF039C2A2912DA001E71FB /* ItemModel.swift in Sources */,
 				B7EF03972A290E59001E71FB /* AddView.swift in Sources */,
+				B7EF03A02A291CC9001E71FB /* ListViewModel.swift in Sources */,
 				B7EF03822A290579001E71FB /* ManagingPersonalTasksApp.swift in Sources */,
 				B7EF03922A290848001E71FB /* ListView.swift in Sources */,
 				B7EF03952A290AD9001E71FB /* ListRowView.swift in Sources */,
