@@ -57,8 +57,9 @@
 		B7EF03802A290579001E71FB /* ManagingPersonalTasks */ = {
 			isa = PBXGroup;
 			children = (
-				B7EF03982A291248001E71FB /* Model */,
 				B7EF03812A290579001E71FB /* ManagingPersonalTasksApp.swift */,
+				B7EF039E2A291C32001E71FB /* MVVM */,
+				B7EF03982A291248001E71FB /* Model */,
 				B7EF03902A290819001E71FB /* Views */,
 				B7EF03852A29057B001E71FB /* Assets.xcassets */,
 				B7EF03932A290AB1001E71FB /* Compnent */,
@@ -98,6 +99,13 @@
 				B7EF039B2A2912D9001E71FB /* ItemModel.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		B7EF039E2A291C32001E71FB /* MVVM */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = MVVM;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
